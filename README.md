@@ -5,9 +5,10 @@ Here is our README file for this exercise!
 ## Contributors
 
 This was created by:
-	Matt Mell
-	David Pratt
-	London Wright
+
+- Matt Mell
+- David Pratt	
+- London Wright
 
 ## The Code
 
