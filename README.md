@@ -12,5 +12,4 @@ This was created by:
 
 ## The Code
 
-We haven't decided on what our code will do yet. 
-But it will take a name input and another input and give an output.
+In our Grading code it first takes the name of the user, the current grade they have in the class and the weight of the final grade of the class. Then it takes their desired final grade within the class. With this information, it comuputs back to the user the grade needed on the final to recieve the grade the user wants. 
